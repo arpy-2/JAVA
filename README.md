@@ -1,10 +1,10 @@
 # JAVA
-- Repositorio de Ejercicios en Java para Principiantes!!
+Repositorio de Ejercicios en Java para Principiantes!!
 
-Introducción:
+1. Introducción:
 Este repositorio contiene una colección de ejercicios y ejemplos prácticos en Java, organizados por unidades temáticas que siguen una progresión lógica en el aprendizaje de la programación.El material está orientado a principiantes y estudiantes que desean consolidar sus conocimientos en Java mediante la práctica guiada y el estudio de código bien estructurado.
 
-Descripción de las Unidades:
+2. Descripción de las Unidades:
 - UT01 Introducción a la Programación:
   Conceptos básicos, declaración de variables, tipos de datos y primeros programas en Java.
 - UT02 Estructuras de Control:
@@ -14,7 +14,7 @@ Descripción de las Unidades:
 - UT04 – Programación Orientada a Objetos (OOP):
   Fundamentos de la POO en Java, incluyendo clases, objetos, atributos, métodos y encapsulamiento, con ejercicios aplicados.
 
-Instrucciones de Uso:
+3. Instrucciones de Uso:
 1. Clonar el repositorio:
   [ git clone https://github.com/usuario/repositorio-java-ejercicios.git ]
 2. Abrir el proyecto en un entorno de desarrollo (por ejemplo, IntelliJ IDEA, Eclipse o VS Code).
