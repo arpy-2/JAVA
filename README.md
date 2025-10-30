@@ -6,7 +6,7 @@ Este repositorio contiene una colección de ejercicios y ejemplos prácticos en 
 
 2. Descripción de las Unidades:
 - UT01 Introducción a la Programación:
-  Conceptos básicos, declaración de variables, tipos de datos y primeros programas en Java.
+  Conceptos básicos, declaración de variables, tipos de datos y primeros programas.
 - UT02 Estructuras de Control:
   Ejercicios con sentencias condicionales (if, switch) y estructuras repetitivas (for, while, 	do-while), incluyendo ejemplos de bucles anidados y expresiones booleanas.
 - UT03 Métodos y Arrays:
