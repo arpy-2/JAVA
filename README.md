@@ -15,8 +15,8 @@ Este repositorio contiene una colección de ejercicios y ejemplos prácticos en 
   Fundamentos de la POO en Java, incluyendo clases, objetos, atributos, métodos y encapsulamiento, con ejercicios aplicados.
 
 3. Instrucciones de Uso:
-1. Clonar el repositorio:
+- Clonar el repositorio:
   [ git clone https://github.com/usuario/repositorio-java-ejercicios.git ]
-2. Abrir el proyecto en un entorno de desarrollo (por ejemplo, IntelliJ IDEA, Eclipse o VS Code).
-3. Navegar hasta la carpeta correspondiente a la unidad de estudio.
-4. Ejecutar los archivos .java para revisar los ejercicios y observar su funcionamiento.
+- Abrir el proyecto en un entorno de desarrollo (por ejemplo, IntelliJ IDEA, Eclipse o VS Code).
+- Navegar hasta la carpeta correspondiente a la unidad de estudio.
+- Ejecutar los archivos .java para revisar los ejercicios y observar su funcionamiento.
