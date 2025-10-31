@@ -1,8 +1,0 @@
-        Return Type	Significado
---------------------------------------------
-int	     |   Devuelve un número entero
-double	 |   Devuelve un número decimal
-boolean	 |   Devuelve true o false
-String	 |   Devuelve una cadena de texto
-void	 |   No devuelve ningún valor
---------------------------------------------
