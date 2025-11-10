@@ -11,8 +11,6 @@ Este repositorio contiene una colección de ejercicios y ejemplos prácticos en 
   Ejercicios con sentencias condicionales (if, switch) y estructuras repetitivas (for, while, 	do-while), incluyendo ejemplos de bucles anidados y expresiones booleanas.
 - UT03 Métodos y Arrays:
   Introducción a la modularidad, creación y uso de métodos, paso de parámetros, así como manejo de arreglos y matrices.
-- UT04 – Programación Orientada a Objetos (OOP):
-  Fundamentos de la POO en Java, incluyendo clases, objetos, atributos, métodos y encapsulamiento, con ejercicios aplicados.
 
 3. Instrucciones de Uso:
 - Clonar el repositorio:
